@@ -7,14 +7,6 @@ Homepage: [zimg.buaa.us](http://zimg.buaa.us/)
 Author: [@招牌疯子](http://weibo.com/819880808)  
 Contact me: zp@buaa.us  
 
-[![Build Status](https://travis-ci.org/buaazp/zimg.svg?branch=master)](https://travis-ci.org/buaazp/zimg)
-[![Build Status](https://drone.io/github.com/buaazp/zimg/status.png)](https://drone.io/github.com/buaazp/zimg/latest)  
-
-### Versions:
-- 09/09/2014 - zimg 3.1.0 Release. New generation.
-- 04/26/2014 - zimg 2.0.0 Release. Supported distributed storage backends.
-- 08/01/2013 - zimg 1.0.0 Release.
-
 ### Synopsis
 - The zimg is an image storage and processing server. You can get a compressed and scaled image from zimg with the parameters of URL.  
 http://demo.buaa.us/5f189d8ec57f5a5a0d3dcba47fa797e2?w=500&h=500&g=1&x=0&y=0&r=45&q=75&f=jpeg
